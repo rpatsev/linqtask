@@ -1,0 +1,11 @@
+D:\pld\LinqTask\LinqTask\bin\Debug\LinqTask.exe.config
+D:\pld\LinqTask\LinqTask\bin\Debug\LinqTask.exe
+D:\pld\LinqTask\LinqTask\bin\Debug\LinqTask.pdb
+D:\pld\LinqTask\LinqTask\obj\Debug\LinqTask.exe
+D:\pld\LinqTask\LinqTask\obj\Debug\LinqTask.pdb
+C:\Users\zaiko\Documents\Visual Studio 2015\labProjects\LinqTask\LinqTask\bin\Debug\LinqTask.exe.config
+C:\Users\zaiko\Documents\Visual Studio 2015\labProjects\LinqTask\LinqTask\obj\Debug\LinqTask.exe
+C:\Users\zaiko\Documents\Visual Studio 2015\labProjects\LinqTask\LinqTask\obj\Debug\LinqTask.pdb
+C:\Users\zaiko\Documents\Visual Studio 2015\labProjects\LinqTask\LinqTask\bin\Debug\LinqTask.exe
+C:\Users\zaiko\Documents\Visual Studio 2015\labProjects\LinqTask\LinqTask\bin\Debug\LinqTask.pdb
+C:\Users\zaiko\Documents\Visual Studio 2015\labProjects\LinqTask\LinqTask\obj\Debug\LinqTask.csprojResolveAssemblyReference.cache
